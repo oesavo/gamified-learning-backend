@@ -3,6 +3,8 @@
   "version": "0.0.0",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js",
     "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
   },
   "repository": {
@@ -15,5 +17,8 @@
     "url": "https://github.com/oesavo/gamified-learning-backend/issues"
   },
   "homepage": "https://github.com/oesavo/gamified-learning-backend#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
