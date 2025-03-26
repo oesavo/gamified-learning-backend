@@ -1,0 +1,19 @@
+{
+  "name": "backend_gamified_learning",
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oesavo/gamified-learning-backend.git"
+  },
+  "author": "oesavo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oesavo/gamified-learning-backend/issues"
+  },
+  "homepage": "https://github.com/oesavo/gamified-learning-backend#readme",
+  "description": ""
+}
